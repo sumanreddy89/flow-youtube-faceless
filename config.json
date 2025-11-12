@@ -1,0 +1,27 @@
+{
+  "api_keys": {
+    "anthropic": "<Insert_api_key>",
+    "elevenlabs": "<Insert_api_key>",
+    "pexels": "<Insert_api_key>"
+  },
+  "youtube": {
+    "credentials_file": "youtube_credentials.json",
+    "channel_id": "YOUR_CHANNEL_ID"
+  },
+  "video_settings": {
+    "niche": "technology",
+    "voice_id": "21m00Tcm4TlvDq8ikWAM",
+    "video_length": 30,
+    "resolution": "1920x1080",
+    "fps": 30
+  },
+  "schedule": {
+    "enabled": false,
+    "time": "09:00",
+    "days": [
+      "monday",
+      "wednesday",
+      "friday"
+    ]
+  }
+}
